@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\bin\Debug\net6.0-windows\zinwaRawWaterManagementSystem.exe
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\bin\Debug\net6.0-windows\zinwaRawWaterManagementSystem.deps.json
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\bin\Debug\net6.0-windows\zinwaRawWaterManagementSystem.runtimeconfig.json
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\bin\Debug\net6.0-windows\zinwaRawWaterManagementSystem.dll
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\bin\Debug\net6.0-windows\zinwaRawWaterManagementSystem.pdb
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.Form1.resources
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.AssemblyInfo.vb
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.dll
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\refint\zinwaRawWaterManagementSystem.dll
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.pdb
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\zinwaRawWaterManagementSystem.genruntimeconfig.cache
+C:\Users\Admin\source\repos\zinwaRawWaterManagementSystem\zinwaRawWaterManagementSystem\obj\Debug\net6.0-windows\ref\zinwaRawWaterManagementSystem.dll
